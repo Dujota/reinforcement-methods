@@ -4,7 +4,7 @@ def word_counter(string)
 end
 
 
-word_counter("this is a test of my method")
+ word_counter("this is a test of my method")
 word_counter("Hello world") # returns 2
 
 word_counter("This is a sentence") # returns 4
